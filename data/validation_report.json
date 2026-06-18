@@ -1,0 +1,23 @@
+{
+    "total_samples": 180,
+    "missing_fields": 0,
+    "invalid_labels": 0,
+    "duplicate_records": 0,
+    "domain_distribution": {
+        "Programming & Object-Oriented Concepts": 45,
+        "SQL & Database Systems": 45,
+        "Machine Learning & AI": 45,
+        "Software Engineering": 45
+    },
+    "difficulty_distribution": {
+        "Easy": 60,
+        "Medium": 60,
+        "Hard": 60
+    },
+    "label_distribution": {
+        "correct": 60,
+        "partial": 60,
+        "incorrect": 60
+    },
+    "status": "PASSED"
+}

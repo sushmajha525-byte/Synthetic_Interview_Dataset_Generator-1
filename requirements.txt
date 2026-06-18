@@ -1,0 +1,5 @@
+# Synthetic Interview Dataset Generator
+# Python Version: 3.10+
+
+# This project uses only Python Standard Library modules.
+# No external packages are required.

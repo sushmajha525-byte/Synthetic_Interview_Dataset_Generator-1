@@ -1,0 +1,89 @@
+[
+    {
+        "domain": "Programming & Object-Oriented Concepts",
+        "difficulty": "Easy",
+        "question": "What is a variable and why is it used in programming?",
+        "answer": "A variable is a named storage location used to store data values during program execution.",
+        "label": "correct"
+    },
+    {
+        "domain": "Programming & Object-Oriented Concepts",
+        "difficulty": "Medium",
+        "question": "Explain inheritance with an example.",
+        "answer": "Inheritance allows one class to use features of another class.",
+        "label": "partial"
+    },
+    {
+        "domain": "Programming & Object-Oriented Concepts",
+        "difficulty": "Hard",
+        "question": "Explain polymorphism and its advantages.",
+        "answer": "Polymorphism is used to store multiple variables together.",
+        "label": "incorrect"
+    },
+
+    {
+        "domain": "SQL & Database Systems",
+        "difficulty": "Easy",
+        "question": "What is SQL and why is it used?",
+        "answer": "SQL is a language used to create, retrieve, update, and manage data in relational databases.",
+        "label": "correct"
+    },
+    {
+        "domain": "SQL & Database Systems",
+        "difficulty": "Medium",
+        "question": "What are SQL joins and why are they used?",
+        "answer": "SQL joins combine data from multiple tables based on related columns.",
+        "label": "partial"
+    },
+    {
+        "domain": "SQL & Database Systems",
+        "difficulty": "Hard",
+        "question": "Explain concurrency control in DBMS.",
+        "answer": "Concurrency control is used to increase database size.",
+        "label": "incorrect"
+    },
+
+    {
+        "domain": "Machine Learning & AI",
+        "difficulty": "Easy",
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a branch of AI that enables systems to learn from data without being explicitly programmed.",
+        "label": "correct"
+    },
+    {
+        "domain": "Machine Learning & AI",
+        "difficulty": "Medium",
+        "question": "What is feature engineering?",
+        "answer": "Feature engineering involves selecting and transforming input variables to improve model performance.",
+        "label": "partial"
+    },
+    {
+        "domain": "Machine Learning & AI",
+        "difficulty": "Hard",
+        "question": "What is the bias-variance tradeoff?",
+        "answer": "It refers to balancing CPU usage and memory usage.",
+        "label": "incorrect"
+    },
+
+    {
+        "domain": "Software Engineering",
+        "difficulty": "Easy",
+        "question": "What is the Software Development Life Cycle (SDLC)?",
+        "answer": "SDLC is a structured process used to plan, develop, test, deploy, and maintain software.",
+        "label": "correct"
+    },
+    {
+        "domain": "Software Engineering",
+        "difficulty": "Medium",
+        "question": "What is Agile methodology?",
+        "answer": "Agile is an iterative software development approach focused on collaboration and continuous improvement.",
+        "label": "partial"
+    },
+    {
+        "domain": "Software Engineering",
+        "difficulty": "Hard",
+        "question": "Explain the SOLID principles of software design.",
+        "answer": "SOLID is a database optimization technique.",
+        "label": "incorrect"
+    }
+]
