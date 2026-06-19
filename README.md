@@ -244,6 +244,8 @@ The validator automatically checks:
 
 **Kumpati Saniya Darja**
 *Prompt Engineering Intern*
+**sushma Kumari**
+*Python Developer Intern*
 
 ---
 
