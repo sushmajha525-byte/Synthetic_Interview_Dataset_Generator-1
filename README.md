@@ -242,8 +242,6 @@ The validator automatically checks:
 
 ## 👩‍💻 Author
 
-**Kumpati Saniya Darja**
-*Prompt Engineering Intern*
 **sushma Kumari**
 *Python Developer Intern*
 
